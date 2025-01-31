@@ -1,0 +1,33 @@
+.tabela-delta {
+  width: 95%; 
+  margin: 0 auto; 
+  border-collapse: collapse;
+}
+
+.tabela-delta th, .tabela-delta td {
+  border: 1px solid white;
+  padding: 10px;
+}
+
+.tabela-delta th {
+  background-color: white;
+  font-size: small;
+  color: black;
+}
+
+.tabela-delta input {
+  display: block;
+  width: 100%; 
+  height: 50%;
+}
+
+.delta-input-field {
+  display: block;
+  margin: auto;
+  width: 90%;
+  font-size: medium;
+}
+
+.text-block {
+  background-color: #c2c2c2;
+}

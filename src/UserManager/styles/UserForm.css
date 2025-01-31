@@ -1,0 +1,24 @@
+.user-form {
+    width: 100%;
+    margin: 0 auto;
+}
+  
+.user-form input,
+.user-form select,
+.user-form button {
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.user-form button {
+    background-color: #f0f0f0;
+    border: 1px solid #131212;
+    cursor: pointer;
+}
+
+.user-form button:hover {
+    background-color: #4CAF50;
+    color: white;
+}

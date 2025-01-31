@@ -1,0 +1,7 @@
+.emergency {
+    border: 1px solid black; 
+    display: block;
+    margin-top: 4px;
+    height: 35px;
+    width: 100%;
+}

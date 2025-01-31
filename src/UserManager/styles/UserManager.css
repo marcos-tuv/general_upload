@@ -1,0 +1,50 @@
+.user-management {
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+  
+.user-list {
+  margin-bottom: 20px;
+}
+  
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+th {
+  background-color: #006129;
+  color: white;
+}
+
+.delete-button{
+    width: 100%;
+    background-color: #80c6a6;
+    border: 1px solid white;
+    cursor: pointer;
+  }
+
+.delete-button:hover {
+    background-color: #91221c !important;
+    color: white;
+}
+
+.add-button{
+  width: 100%;
+  background-color: #80c6a6;
+  border: 1px solid white;
+  cursor: pointer;
+}
+
+.add-button:hover {
+  background-color: #006129 !important;
+  color: white;
+}
